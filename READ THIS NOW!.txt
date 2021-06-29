@@ -1,0 +1,27 @@
+Hey, I saw how to mod the game and I decided to make a week 7 support with Kade Engine 1.5.1,
+the game version I decided to name it 0.2.7.5, cuz, I think it is alike the official 0.2.8 from the Funkin'
+Developers, wich you can play on Newgrounds.
+
+------CUSTOM BUILD ERRORS-----
+1. PLAYING THE SONGS: 
+If you want to play the week 7 on story mode, it probably crash, cuz of the .webm player code. So
+play them in the freeplay section.
+2. ALTERNATE ANIMATIONS:
+In Ugh song, the "ugh" animation it is still a WIP, I'll be fixing it in the upcoming updates.
+In Stress, the "Pretty Good" anmation, is the same thing, but, here the animation plays only 5 frames
+of the complete animation, it'll be fixed in upcoming updates.
+3. PICO IN DA SPEAKER:
+Yes, it isn't all complete, this is just a beta version, so, it isn't complete at all, so, the pico in the speaker
+animation only plays one of all the animation.
+4. BACKGROUND:
+The background of the songs are complete about a 80%, cuz, the tankman killed by pico and the 
+tankman in the tank left to add them in the background, fixed in upcoming updates.
+-------------------------------------------
+
+These are the only errors in the build, but it is playable at least, hope you enjoy it, and if you do, leave
+a like in the GB page :)
+
+Check my YT channel if you want to: https://www.youtube.com/channel/UC4HVtx5jQuZEyV0hBjqdKCg
+
+If you want to help me to complete this project, type it in one of my videos or in the GB comment
+section.
